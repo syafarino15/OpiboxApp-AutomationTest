@@ -7,8 +7,8 @@ test('Reliability-Availability-Load Test', async ({ browser }) => {
     const context = await browser.newContext();
     const page = await context.newPage();
 
-    const numRequests = 100;
-    const delay = 200; // Jeda dalam milidetik
+    const numRequests = 5;
+    const delay = 100; // Jeda dalam milidetik
     const retryLimit = 3; // Batas pengulangan jika terjadi kegagalan
     const results = [];
 

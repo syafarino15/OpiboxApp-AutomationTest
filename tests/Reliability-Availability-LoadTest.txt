@@ -1,0 +1,1 @@
+Iteration: 0, Status: Success, Load Time: 1843 ms, Attempt: 1, CPU Usage: 10.81%, Memory Usage: 9.14%

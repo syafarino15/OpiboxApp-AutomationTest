@@ -1,0 +1,36 @@
+{
+  "testName": "Performance Capacity Test",
+  "numberOfUsers": 50,
+  "loadTime": 23934,
+  "averageLoadTime": 478.68,
+  "expectedTime": 10000,
+  "status": "Failed",
+  "date": "11/6/2024, 23:51:06"
+},
+{
+  "testName": "Performance Capacity Test",
+  "numberOfUsers": 50,
+  "loadTime": 27185,
+  "averageLoadTime": 543.7,
+  "expectedTime": 10000,
+  "status": "Failed",
+  "date": "11/6/2024, 23:55:33"
+},
+{
+  "testName": "Performance Capacity Test",
+  "numberOfUsers": 50,
+  "loadTime": 52400,
+  "averageLoadTime": 1048,
+  "expectedTime": 10000,
+  "status": "Failed",
+  "date": "11/7/2024, 08:55:13"
+},
+{
+  "testName": "Performance Capacity Test",
+  "numberOfUsers": 5,
+  "loadTime": 6767,
+  "averageLoadTime": 1353.4,
+  "expectedTime": 10000,
+  "status": "Passed",
+  "date": "11/7/2024, 08:58:33"
+},

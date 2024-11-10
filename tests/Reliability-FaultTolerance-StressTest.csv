@@ -1,0 +1,26 @@
+Load Level, Status, Duration (ms), CPU Usage Difference, Memory Usage Difference (MB)
+1,Success,1280,N/A,0.2890625
+2,Success,208,N/A,0.375
+3,Success,278,N/A,0.58203125
+4,Success,9538,N/A,-10.68359375
+5,Success,275,N/A,-10.34765625
+6,Success,268,N/A,-9.93359375
+7,Success,163,N/A,-9.6171875
+8,Success,142,N/A,-8.9453125
+9,Success,429,N/A,-7.08984375
+10,Success,147,N/A,-6.1796875
+11,Success,142,N/A,-5.421875
+12,Success,149,N/A,-4.53125
+13,Success,146,N/A,-4.01953125
+14,Success,142,N/A,-3.32421875
+15,Success,151,N/A,-2.33984375
+16,Success,185,N/A,-0.64453125
+17,Success,147,N/A,-0.08203125
+18,Success,143,N/A,2.0390625
+19,Success,165,N/A,2.01953125
+20,Success,232,N/A,2.14453125
+21,Success,193,N/A,2.34765625
+22,Success,242,N/A,2.375
+23,Success,179,N/A,3.08203125
+24,Success,134,N/A,4.24609375
+25,Success,146,N/A,5.25

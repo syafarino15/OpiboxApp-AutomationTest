@@ -1,0 +1,27 @@
+[
+  {
+    "iteration": 0,
+    "status": "Success",
+    "duration": 16696
+  },
+  {
+    "iteration": 1,
+    "status": "Success",
+    "duration": 2130
+  },
+  {
+    "iteration": 2,
+    "status": "Success",
+    "duration": 1347
+  },
+  {
+    "iteration": 3,
+    "status": "Success",
+    "duration": 1359
+  },
+  {
+    "iteration": 4,
+    "status": "Success",
+    "duration": 1342
+  }
+]

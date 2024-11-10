@@ -1,0 +1,11 @@
+{
+  "testName": "Resource Utilization Test",
+  "numberOfUsers": 5,
+  "loadTime": 5879,
+  "averageLoadTime": 1175.8,
+  "cpuUsageDifference": "0.62%",
+  "memoryUsageDifference": "9.23 MB",
+  "expectedTime": 10000,
+  "status": "Passed",
+  "date": "11/7/2024, 09:07:20"
+},

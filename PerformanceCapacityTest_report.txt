@@ -1,0 +1,37 @@
+
+    Test Name: Performance Capacity Test
+    Number of Users: 50
+    Total Load Time: 23934 ms
+    Average Load Time per User: 478.68 ms
+    Expected Time: 10000 ms
+    Status: Failed
+    Date: 11/6/2024, 23:51:06
+    -----------------------------------
+    
+    Test Name: Performance Capacity Test
+    Number of Users: 50
+    Total Load Time: 27185 ms
+    Average Load Time per User: 543.7 ms
+    Expected Time: 10000 ms
+    Status: Failed
+    Date: 11/6/2024, 23:55:33
+    -----------------------------------
+    
+    Test Name: Performance Capacity Test
+    Number of Users: 50
+    Total Load Time: 52400 ms
+    Average Load Time per User: 1048 ms
+    Expected Time: 10000 ms
+    Status: Failed
+    Date: 11/7/2024, 08:55:13
+    -----------------------------------
+    
+    Test Name: Performance Capacity Test
+    Number of Users: 5
+    Total Load Time: 6767 ms
+    Average Load Time per User: 1353.4 ms
+    Expected Time: 10000 ms
+    Status: Passed
+    Date: 11/7/2024, 08:58:33
+    -----------------------------------
+    

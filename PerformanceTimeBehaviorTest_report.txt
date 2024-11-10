@@ -1,0 +1,9 @@
+
+    Test Name: Performance Time Behavior
+    URL: https://opibox.netlify.app/
+    Load Time: 5837 ms
+    Expected Time: 10000 ms
+    Status: Passed
+    Date: 11/7/2024, 09:06:51
+    -----------------------------------
+    

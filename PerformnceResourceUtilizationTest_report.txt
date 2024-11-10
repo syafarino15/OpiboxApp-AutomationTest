@@ -1,0 +1,12 @@
+
+    Test Name: Resource Utilization Test
+    Number of Users: 5
+    Total Load Time: 5879 ms
+    Average Load Time per User: 1175.8 ms
+    CPU Usage Difference: 0.62%
+    Memory Usage Difference: 9.23 MB
+    Expected Time: 10000 ms
+    Status: Passed
+    Date: 11/7/2024, 09:07:20
+    -----------------------------------
+    

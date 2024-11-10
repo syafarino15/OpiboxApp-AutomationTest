@@ -1,0 +1,5 @@
+Iteration: 0, Status: Success, Load Time: 16696 ms
+Iteration: 1, Status: Success, Load Time: 2130 ms
+Iteration: 2, Status: Success, Load Time: 1347 ms
+Iteration: 3, Status: Success, Load Time: 1359 ms
+Iteration: 4, Status: Success, Load Time: 1342 ms

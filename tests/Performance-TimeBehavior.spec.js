@@ -16,7 +16,7 @@ test('Performance Time Behavior Test', async ({ page }) => {
     const status = loadTime < expectedTime ? 'Passed' : 'Failed';
 
     // Menyimpan hasil ke file .txt
-    fs.appendFileSync('PerformanceTest_report.txt', `
+    fs.appendFileSync('PerformanceTimeBehaviorTest_report.txt', `
     Test Name: Performance Time Behavior
     URL: https://opibox.netlify.app/
     Load Time: ${loadTime} ms
@@ -35,7 +35,7 @@ test('Performance Time Behavior Test', async ({ page }) => {
         status: status,
         date: new Date().toLocaleString(),
     };
-    fs.appendFileSync('PerformanceTest_report.json', JSON.stringify(result, null, 2) + ',\n');
+    fs.appendFileSync('PerformanceTimeBehaviorTest_report.json', JSON.stringify(result, null, 2) + ',\n');
 
     // Assertion
     expect(loadTime).toBeLessThan(10000);

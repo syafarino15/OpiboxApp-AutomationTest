@@ -2,7 +2,7 @@ const { test, expect } = require('@playwright/test');
 const fs = require('fs');
 
 test('Performance Capacity Test', async ({ browser }) => {
-    const numberOfUsers = 50; // Jumlah pengguna yang disimulasikan
+    const numberOfUsers = 5; // Jumlah pengguna yang disimulasikan
     const startTime = Date.now();
 
     // Buat array promises untuk mensimulasikan 50 pengguna

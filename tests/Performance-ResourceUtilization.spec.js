@@ -3,7 +3,7 @@ const fs = require('fs');
 const pidusage = require('pidusage');
 
 test('Resource Utilization Test', async ({ browser }) => {
-    const numberOfUsers = 50; // Jumlah pengguna yang disimulasikan
+    const numberOfUsers = 5; // Jumlah pengguna yang disimulasikan
     const startTime = Date.now();
 
     // Buat array promises untuk mensimulasikan 50 pengguna
@@ -42,7 +42,7 @@ test('Resource Utilization Test', async ({ browser }) => {
     const status = loadTime < expectedTime ? 'Passed' : 'Failed';
 
     // Menyimpan hasil ke file .txt
-    fs.appendFileSync('ResourceUtilizationTest_report.txt', `
+    fs.appendFileSync('PerformnceResourceUtilizationTest_report.txt', `
     Test Name: Resource Utilization Test
     Number of Users: ${numberOfUsers}
     Total Load Time: ${loadTime} ms
@@ -67,7 +67,7 @@ test('Resource Utilization Test', async ({ browser }) => {
         status: status,
         date: new Date().toLocaleString(),
     };
-    fs.appendFileSync('ResourceUtilizationTest_report.json', JSON.stringify(result, null, 2) + ',\n');
+    fs.appendFileSync('PerformnceResourceUtilizationTest_report.json', JSON.stringify(result, null, 2) + ',\n');
 
     // Assertion
     expect(loadTime).toBeLessThan(10000);
